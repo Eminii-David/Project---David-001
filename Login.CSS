@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-attachment: black;
+}
+
+body {
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+.sitename {
+    color: green;
+    float: left;
+    font-size: larger;
+    padding-left: 10px;
+}

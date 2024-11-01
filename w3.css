@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-attachment: black;
+}
+
+body {
+    max-width: 50%;
+    margin: 0 auto;    
+}
+header p{
+    color: black;
+}
+
+.header-row-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sitename {
+    color: green;
+    float: left;
+    font-size: larger;
+    padding-left: 10px;
+}
+
+.header input {
+    border-radius: 15px;
+    margin-right: 100px;
+    padding: 5px;
+}
+
+.header input {
+    border-radius: 15px;
+    margin-right: 100px;
+    padding: 5px;
+}
+
+.login p {
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding: 5px;
+}
+
+li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: white;
+ 
+}
+section {
+    margin-top: 10px;
+    
+}
+
+.Tutorial {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Tutorial button {
+    background-color: green;
+    padding: 7px 15px;
+    border: transparent;
+    border-radius: 3px;
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+}
+
+.content{
+    clear: both;
+    background-color: rgb(82, 243, 82);
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.study button {
+    background-color: green;
+    color: white;
+    border: transparent;
+    border-radius: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 500;
+    padding: 4px;
+}
+
+.hr1 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.hr2 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.watch button {
+    background-color: black;
+    color: white;
+    border: transparent;
+    border-radius: 2px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 500;
+    padding: 4px;
+
+}
+
+.content3 button{
+    color: black;
+    background-color: gray;
+    border: transparent;
+    border-radius: 2px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 500;
+    padding: 4px;
+}
